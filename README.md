@@ -1,4 +1,4 @@
-# cards_game
+# card game for group project
 
 ## About
 A main [Deck.py](Deck.py) file that includes a basic structure of a card game with a few useful functions<br />
